@@ -1,0 +1,27 @@
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+#img1azul {margin:20px; order: 0;}
+#img2azul {margin:20px;order: 2;}
+#img3azul {margin:20px;order: 4;}
+#img4azul {margin:20px;order: 6;}
+#img5azul {margin:20px;order: 8;}
+#img6azul {margin:20px;order: 10;}
+#img7azul {margin:20px;order: 12;}
+#img8azul {margin:20px;order: 14;}
+#img9azul {margin:20px;order: 16;}
+#img10azul {margin:20px;order:18;}
+#img1roxa {margin:20px;order: 1;}
+#img2roxa {margin:20px;order: 3;}
+#img3roxa {margin:20px;order: 5;}
+#img4roxa {margin:20px;order: 7;}
+#img5roxa {margin:20px;order: 9;}
+#img6roxa {margin:20px;order: 11;}
+#img7roxa {margin:20px;order: 13;}
+#img8roxa {margin:20px;order: 15;}
+#img9roxa {margin:20px;order: 17;}
+#img10roxa {margin:20px;order: 19;}
